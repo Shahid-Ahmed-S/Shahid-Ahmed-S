@@ -20,7 +20,7 @@ Frameworks:
 Flask | Spring Boot | React
 
 Tools:
-Git | GitHub | MySQL | Power BI
+Git | GitHub | MySQL | Linux | Power BI 
 
 ## Featured Projects
 
