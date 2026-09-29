@@ -1,4 +1,4 @@
-# Hi, I'm Shahid Ahmed 👋
+# Shahid Ahmed here 👋
 
 Final-Year B.E. Computer Science Engineering student passionate about
 building practical software and machine learning projects.
@@ -39,4 +39,4 @@ Python • SQL • DSA • Machine Learning
 
 ## Connect With Me
 
-LinkedIn | GitHub | Portfolio
+[LinkedIn](https://www.linkedin.com/in/shahidahmed08/)
